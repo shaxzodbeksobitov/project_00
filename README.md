@@ -32,3 +32,4 @@ Pyshop is a website application where users can buy grocery market products. Del
 - Customer will give opinion and suggestion
 
 ## What the app looks like 
+https://github.com/shaxzodbeksobitov/project_00/blob/master/2020-01-29.png
